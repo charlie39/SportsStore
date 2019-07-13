@@ -12,18 +12,20 @@ An online sports store with *pwa features* where you can place order and purchas
 *You can replace the placeholder data in serverdata.json and instead store in a database like mongodb.
 
 
+
 # get started
 > 1. Clone the repo:
 
->   `git clone https://github.com/charlie39/SportsStore.git`
+>    `git clone https://github.com/charlie39/SportsStore.git`
 
-> 2.Go to project directory
+> 2. Go to project directory
 
->   `cd SportsStore`
+>     `cd SportsStore`
 
 > 3. Install the dependencies:
 
->   `npm install`
+>     `npm install`
+
 
 
 
@@ -41,5 +43,6 @@ An online sports store with *pwa features* where you can place order and purchas
 
 
 
+*the data.js is a mock data for development
 
 ---------------------------------------------------------------------------
