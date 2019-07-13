@@ -2,6 +2,7 @@
 
 
 
+
 An online sports store with *pwa features* where you can place order and purchase sports goodies. The data is serverd from http server via a REST API which is consumed by the appliction.
 
 
