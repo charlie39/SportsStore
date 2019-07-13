@@ -24,4 +24,21 @@ An online sports store with *pwa features* where you can place order and purchas
 
 >   `npm install`
 
+
+
+
+
+# creating Docker image
+
+> 1. In the project directory, run:
+
+>  `docker build . -t sportstore -f dockerfile`
+
+> 2. Run the docker container:
+
+>  `docker run -p 80:8081 sportsstore`
+
+
+
+
 ---------------------------------------------------------------------------
