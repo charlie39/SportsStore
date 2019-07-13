@@ -1,27 +1,27 @@
 # SportsStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+An online sports store with *pwa features* where you can place order and purchase sports goodies. The data is serverd from http server via a REST API which is consumed by the appliction.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+*for the pwa features, place your ssl certificates in ssl directory and set httpEnabled in the server.js to true.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+*You can replace the placeholder data in serverdata.json and instead store in a database like mongodb.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# get started
+> 1. Clone the repo:
 
-## Running end-to-end tests
+>   `git clone https://github.com/charlie39/SportsStore.git`
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+> 2.Go to project directory
 
-## Further help
+>   `cd SportsStore`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+> 3. Install the dependencies:
+
+>   `npm install`
+
+---------------------------------------------------------------------------
